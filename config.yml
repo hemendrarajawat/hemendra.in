@@ -1,7 +1,8 @@
 baseURL: https://hemendra.in/
 languageCode: en-us
 title: Hemendra Singh Rajawat
-theme: PaperMod
+theme: [hugo-PaperMod]
+timeZone: "Asia/Kolkata"
 googleAnalytics: G-9VJ1M639JP
 
 taxonomies:
@@ -44,13 +45,21 @@ params:
     description: Portfolio and blog website of Hemendra about tech, ai/ml, and projects.
     DateFormat: "January 2, 2006"
 
+    footer:
+      showPoweredBy: false
+      text: "[Privacy Policy](/privacy \"Privacy Policy\") · [RSS Feed](/index.xml \"Really Simple Syndication Feed\")"
+
     profileMode:
         enabled: true
         title: Hemendra Singh Rajawat
         subtitle: "
-        **Salesforce & TensorFlow Certified Developer** \n
-
-        Senior Consultant at Deloitte with 7+ years of development experience 💻. My hobby is cycling 🚴‍♂️. Checkout my projects too focused on machine learning.
+        **Senior Consultant at Deloitte** <br>
+        Salesforce | Machine Learning & Data Science 🤖📊
+        <br><br>
+        I am a Salesforce and TensorFlow certified developer, currently transitioning deeper into Machine Learning and Data Science by working on hands-on, end-to-end ML projects using Python and TensorFlow.
+        <br>
+        Through this site 🌐, I document my learning journey ✍️, share technical insights 📘, and showcase applied machine learning work with a strong focus on real-world problem solving 🧩🚀. Outside of work and code, I’m an avid cyclist 🚴‍♂️ who enjoys pushing limits—on the road and in technology ⚙️🔥.
+        
         "
         imageUrl: home/me.jpg
         imageWidth: 220
@@ -68,7 +77,11 @@ params:
           url: https://github.com/hemendrarajawat
         - name: kaggle
           url: https://www.kaggle.com/hemendrasr
+        - name: rss
+          url: /index.xml
 
+    ShowFullTextinRSS: true
+    ShowRssButtonInSectionTermList: true
     ShowShareButtons: true
     ShowReadingTime: true
     ShowWordCount: false
@@ -117,3 +130,9 @@ markup:
           - - \(
             - \)
         enable: true
+
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
