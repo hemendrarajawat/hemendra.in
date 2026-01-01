@@ -104,7 +104,7 @@ Notes:
 
 ## 📄 License
 
-This repository is released under the MIT License — see [LICENSE](LICENSE) for the full text.
+This repository is released under the MIT License — see [LICENSE](LICENSE.md) for the full text.
 
 You are welcome to reuse the site's code, layout, and assets for your own projects. Please do not republish or reuse personal content (blog posts, personal images) without permission from the owner.
 
