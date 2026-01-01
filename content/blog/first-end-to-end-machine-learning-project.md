@@ -7,7 +7,7 @@ tags:
     - machine learning
 categories:
     - Machine Learning
-lastmod: 2024-08-09T11:18:45.788Z
+lastmod: 2025-12-31T20:40:23.334Z
 cover:
     image: /blog/first-end-to-end-machine-learning-project/first_end_to_end_machine_learning_project.jpg
 slug: first-end-to-end-machine-learning-project

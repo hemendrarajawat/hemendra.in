@@ -7,7 +7,8 @@ disableShare: true
 ShowPostNavLinks: false
 date: null
 dateString: Dec 2019 - Oct 2020 · 11 mos
-lastmod: 2024-08-08T21:10:47.966Z
+lastmod: 2026-01-01T09:33:06.852Z
 weight: -3
 slug: senior-salesforce-developer
+hideFromRSS: true
 ---

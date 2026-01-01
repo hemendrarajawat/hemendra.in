@@ -7,7 +7,8 @@ disableShare: true
 ShowPostNavLinks: false
 date: null
 dateString: Jun 2023 - Present
-lastmod: 2024-08-08T21:11:15.829Z
+lastmod: 2026-01-01T09:33:15.939Z
 weight: -5
 slug: senior-consultant
+hideFromRSS: true
 ---
