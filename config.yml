@@ -1,7 +1,7 @@
 baseURL: https://hemendra.in/
 languageCode: en-us
 title: Hemendra Singh Rajawat
-theme: [hugo-PaperMod]
+theme: [PaperMod]
 timeZone: "Asia/Kolkata"
 googleAnalytics: G-9VJ1M639JP
 
