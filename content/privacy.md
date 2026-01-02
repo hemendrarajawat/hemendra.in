@@ -87,7 +87,7 @@ You may limit or opt out of analytics collection by:
 - Enabling “Do Not Track” in your browser  
 - Adjusting browser cookie and storage settings  
 - Using Google’s Analytics opt-out tool:  
-  https://tools.google.com/dlpage/gaoptout  
+  <p><a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">https://tools.google.com/dlpage/gaoptout</a></p>
 
 Disabling analytics does not affect access to website content.
 
